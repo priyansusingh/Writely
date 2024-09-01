@@ -35,8 +35,8 @@ To get started with WhiteSpace locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/mrsamirr/WhiteSpace.git
-    cd WhiteSpace
+    git clone https://github.com/priyansusingh/Digital-Dairy.git
+    cd Digital-Dairy
     ```
 
 2. **Install dependencies:**
