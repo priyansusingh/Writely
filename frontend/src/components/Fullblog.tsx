@@ -1,8 +1,8 @@
-import { Blog } from "../hooks"
+import { Post } from "../hooks/index"
 import { Appbar } from "./Appbar"
 import { Avatar } from "./BlogCard"
 
-export const FullBlog = ({ blog }: {blog: Blog}) => {
+export const FullBlog = ({ blog }: {blog: Post}) => {
     return <div>
         <Appbar />
         <div className="flex justify-center">
