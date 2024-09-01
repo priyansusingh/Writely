@@ -142,7 +142,6 @@ blogRouter.get('/:id', async(c)=>{
  try{
     const blog =   await prisma.post.findFirst({
         where:{
-            //@ts-ignore
             id: Number(id)
         },
    })   
