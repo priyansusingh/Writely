@@ -1,7 +1,7 @@
 
 # DigitalDairy
 
-**DigitalDairy** is a modern blogging platform that emphasizes simplicity and readability. It is designed to offer a seamless writing and reading experience with a focus on minimalism and functionality. Whether you're a seasoned writer or just starting, WhiteSpace provides the tools you need to share your stories with the world.
+**DigitalDairy** is a modern blogging platform that emphasizes simplicity and readability. It is designed to offer a seamless writing and reading experience with a focus on minimalism and functionality. Whether you're a seasoned writer or just starting, DigitalDairy provides the tools you need to share your stories with the world.
 ## Technologies Used
 ### Backend
 
@@ -31,7 +31,7 @@
 
 ## Installation
 
-To get started with WhiteSpace locally, follow these steps:
+To get started with DigitalDairy locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
