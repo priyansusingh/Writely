@@ -1,6 +1,7 @@
-import { Footer } from "../components/Footer"
+import Quote from "@/components/Quote"
 import { Navbar } from "../components/Navbar"
-import { Quote } from "../components/Quote"
+import Footer from "@/components/Footer"
+
 
 
 export const Home =()=>{

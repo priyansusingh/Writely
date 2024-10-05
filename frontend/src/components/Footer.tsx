@@ -1,9 +1,12 @@
-export const Footer = () =>{
-   return <div>
-    <footer className="w-full bg-black py-4 flex justify-center items-center shadow-inner">
-        <div className="text-sm text-gray-500">
-          © 2024 Digital Dairy. All rights reserved.
+
+export default function Footer() {
+  return (
+    <footer className="bg-slate-800 text-white py-6">
+      <div className="max-w-4xl mx-auto px-4">
+        <div className="text-center text-sm text-slate-400">
+          <p>&copy; {new Date().getFullYear()} Your Company Name. All rights reserved.</p>
         </div>
-      </footer>
-    </div>
+      </div>
+    </footer>
+  )
 }
